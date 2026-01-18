@@ -1,0 +1,98 @@
+$                                                                                          LAB 10
+*************************case-1*************************
+
+Enter the number of vertices in graph:4
+Enter the adjacency matrix:
+0 1 0 1
+0 0 1 0
+0 0 0 1
+0 0 0 0
+Enter the starting vertex: 1
+==>1. BFS: Print all nodes reachable from a given starting node
+==>2. DFS: Print all nodes reachable from a given starting node
+==>3:Exit
+Enter your choice: 1
+Nodes reachable from starting vertex 1 are: 2 4 3 
+
+
+
+*************************case-2*************************
+
+Enter the number of vertices in graph:4
+Enter the adjacency matrix:
+0 1 0 1
+0 0 1 0
+0 0 0 1
+0 0 0 0
+Enter the starting vertex: 2
+==>1. BFS: Print all nodes reachable from a given starting node
+==>2. DFS: Print all nodes reachable from a given starting node
+==>3:Exit
+Enter your choice: 1
+Nodes reachable from starting vertex 2 are: 3 4 
+The vertex that is not reachable is 1
+
+
+
+*************************case-3*************************
+
+Enter the number of vertices in graph:4
+Enter the adjacency matrix:
+0 1 0 1
+0 0 1 0
+0 0 0 1
+0 0 0 0
+Enter the starting vertex: 1
+==>1. BFS: Print all nodes reachable from a given starting node
+==>2. DFS: Print all nodes reachable from a given starting node
+==>3:Exit
+Enter your choice: 2
+Nodes reachable from starting vertex 1 are: 2 3 4 
+
+
+
+*************************case-4*************************
+
+Enter the number of vertices in graph:4
+Enter the adjacency matrix:
+0 1 0 1
+0 0 1 0
+0 0 0 1
+0 0 0 0
+Enter the starting vertex: 2
+==>1. BFS: Print all nodes reachable from a given starting node
+==>2. DFS: Print all nodes reachable from a given starting node
+==>3:Exit
+Enter your choice: 2
+Nodes reachable from starting vertex 2 are: 3 4 
+$                                                                                          LAB 10
+Enter the number of employee  records (N) :10
+Enter the two digit memory locations (m) for hash table:15
+Enter the four digit key values (K) for N Employee Records:
+  4020
+  4560
+  9908
+  6785
+  0423
+  7890
+  6547
+  3342
+  9043
+  6754
+  Hash Table contents are:
+ 
+  T[0] --> 4020 
+  T[1] --> 4560 
+  T[2] --> 7890 
+  T[3] --> 423 
+  T[4] --> 6754 
+  T[5] --> 6785 
+  T[6] --> -1 
+  T[7] --> 6547 
+  T[8] --> 9908 
+  T[9] --> -1 
+  T[10] --> -1 
+  T[11] --> -1 
+  T[12] --> 3342 
+  T[13] --> 9043 
+  T[14] --> -1 
