@@ -1,0 +1,337 @@
+$                                                                                         LAB 4
+Enter the valid infix expression:(a+b)*c/d^5%1
+The entered infix expression is :
+ (a+b)*c/d^5%1 
+
+The corresponding postfix expression is :
+ ab+c*d5^/1% 
+$                                                                                          LAB 5A
+Enter a valid postfix expression:
+623+-382/+*2$3+
+Result = 52
+$                                                                                          LAB 5B
+Enter the number of discs: 3
+
+Move disc 1 from A to C
+Move disc 2 from A to B
+Move disc 1 from C to B
+Move disc 3 from A to C
+Move disc 1 from B to A
+Move disc 2 from B to C
+Move disc 1 from A to C
+
+Total Number of moves are: 7
+$                                                                                          LAB 6
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 1
+Enter element to be inserted: A
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 1
+Enter element to be inserted: B
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 1
+Enter element to be inserted: C
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 3
+Circular Queue elements: A B C 
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 2
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 3
+Circular Queue elements: B C 
+
+
+---- Circular Queue Menu ----
+1. Insert an Element
+2. Delete an Element
+3. Display Circular Queue
+4. Exit
+Enter your choice: 4
+Exiting...
+$                                                                                          LAB 7
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:1
+
+Enter the no of students: 3
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21CS017
+Braham
+CSE
+5
+8768586443
+
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21CS015
+Bikash
+CSE
+5
+8734687996
+
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21AI015
+Shoaib
+AI&ML
+5
+6748353877
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:2
+The contents of SLL: 
+
+|1| |USN:1ME21AI015| |Name:Shoaib| |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|2| |USN:1ME21CS015| |Name:Bikash| |Branch:CSE  | |Sem:5| |Ph:8734687996|
+|3| |USN:1ME21CS017| |Name:Braham| |Branch:CSE  | |Sem:5| |Ph:8768586443|
+ No of student nodes is 3 
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:3
+
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21CS068
+Rajan
+CSE
+5
+3426527765
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:2
+The contents of SLL: 
+
+|1| |USN:1ME21AI015| |Name:Shoaib| |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|2| |USN:1ME21CS015| |Name:Bikash| |Branch:CSE  | |Sem:5| |Ph:8734687996|
+|3| |USN:1ME21CS017| |Name:Braham| |Branch:CSE  | |Sem:5| |Ph:8768586443|
+|4| |USN:1ME21CS068| |Name:Rajan | |Branch:CSE  | |Sem:5| |Ph:3426527765|
+ No of student nodes is 4 
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:4
+The student node with the usn:1ME21CS068 is deleted
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:2
+The contents of SLL: 
+
+|1| |USN:1ME21AI015| |Name:Shoaib| |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|2| |USN:1ME21CS015| |Name:Bikash| |Branch:CSE  | |Sem:5| |Ph:8734687996|
+|3| |USN:1ME21CS017| |Name:Braham| |Branch:CSE  | |Sem:5| |Ph:8768586443|
+ No of student nodes is 3 
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:4
+The student node with the usn:1ME21CS017 is deleted
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:5
+--------Stack Demo using SLL--------
+
+1:Push operation 
+2: Pop operation 
+3: Display 
+4:Exit 
+
+Enter your choice for stack demo:1
+
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21CS005
+Aman
+CSE
+5
+6587594335
+
+--------Stack Demo using SLL--------
+
+1:Push operation 
+2: Pop operation 
+3: Display 
+4:Exit 
+
+Enter your choice for stack demo:3
+The contents of SLL: 
+
+|1| |USN:1ME21CS005| |Name:Aman  | |Branch:CSE  | |Sem:5| |Ph:6587594335|
+|2| |USN:1ME21AI015| |Name:Shoaib| |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|3| |USN:1ME21CS015| |Name:Bikash| |Branch:CSE  | |Sem:5| |Ph:8734687996|
+ No of student nodes is 3 
+
+--------Stack Demo using SLL--------
+
+1: Push operation 
+2: Pop operation 
+3: Display 
+4: Exit 
+
+Enter your choice for stack demo:1
+
+Enter the usn,Name,Branch, sem,PhoneNo of the student:
+1ME21CS092
+Shubham
+CSE
+5
+9869754354
+
+--------Stack Demo using SLL--------
+1:Push operation 
+2: Pop operation 
+3: Display 
+4:Exit 
+
+Enter your choice for stack demo:3
+The contents of SLL: 
+
+|1| |USN:1ME21CS092| |Name:Shubham| |Branch:CSE  | |Sem:5| |Ph:9869754354|
+|2| |USN:1ME21CS005| |Name:Aman   | |Branch:CSE  | |Sem:5| |Ph:6587594335|
+|3| |USN:1ME21AI015| |Name:Shoaib | |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|4| |USN:1ME21CS015| |Name:Bikash | |Branch:CSE  | |Sem:5| |Ph:8734687996|
+ No of student nodes is 4 
+
+--------Stack Demo using SLL--------
+
+1:Push operation 
+2: Pop operation 
+3: Display 
+4:Exit 
+
+Enter your choice for stack demo:2
+The Student node with usn:1ME21CS092 is deleted
+
+--------Stack Demo using SLL--------
+
+1:Push operation 
+2: Pop operation 
+3: Display 
+4:Exit 
+
+Enter your choice for stack demo:3
+The contents of SLL: 
+
+|1|  |USN:1ME21CS005| |Name:Aman  | |Branch:CSE  | |Sem:5| |Ph:6587594335|
+|2|  |USN:1ME21AI015| |Name:Shoaib| |Branch:AI&ML| |Sem:5| |Ph:6748353877|
+|3|  |USN:1ME21CS015| |Name:Bikash| |Branch:CSE  | |Sem:5| |Ph:8734687996|
+ No of student nodes is 3 
+
+--------Stack Demo using SLL--------
+
+1: Push operation 
+2: Pop operation 
+3: Display 
+4: Exit 
+
+Enter your choice for stack demo:4
+
+--------Menu--------
+Enter your choice for SLL operation 
+
+1:Create SLL of Student Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:Stack Demo using SLL(Insertion and Deletion at Front)
+6:Exit 
+
+Enter your choice:6
