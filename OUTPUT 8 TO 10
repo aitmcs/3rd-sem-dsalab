@@ -1,0 +1,365 @@
+$                                                                                          LAB 8
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 1
+Enter the no of Employees: 2
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee:
+1EPL
+Braham
+Developer
+Senior
+13627
+8476283712
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee:
+2EPL
+Aman
+Trader
+Manager
+20000
+2763578156
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 2
+
+|ENode:1| |SSN:1EPL| |Name:Braham| |Department:Developer| |Designation:Senior | |Salary:13627| |Phone no:8476283712|
+|ENode:2| |SSN:2EPL| |Name:Aman  | |Department:Trader   | |Designation:Manager| |Salary:20000| |Phone no:2763578156|
+No of employee nodes is 2
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 3
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee:
+3EPL
+Bikash
+Meeting
+Manager
+30000
+8237462936
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 2
+
+|ENode:1| |SSN:1EPL| |Name:Braham| |Department:Developer| |Designation:Senior | |Salary:13627| |Phone no:8476283712|
+|ENode:2| |SSN:2EPL| |Name:Aman  | |Department:Trader   | |Designation:Manager| |Salary:20000| |Phone no:2763578156|
+|ENode:3| |SSN:3EPL| |Name:Bikash| |Department:Meeting  | |Designation:Manager| |Salary:30000| |Phone no:8237462936|
+No of employee nodes is 3
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 5
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee:
+4EPL
+Shoaib
+Digital Marketing
+Manager
+40000
+2835826437
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+
+Please enter your choice: 2
+
+|ENode:1| |SSN:4EPL| |Name:Shoaib| |Department:Digital Marketing| |Designation:Manager| |Salary:40000| |Phone no:2835826437| 
+|ENode:2| |SSN:1EPL| |Name:Braham| |Department:Developer        | |Designation:Senior | |Salary:13627| |Phone no:8476283712|
+|ENode:3| |SSN:2EPL| |Name:Aman  | |Department:Trader           | |Designation:Manager| |Salary:20000| |Phone no:2763578156|
+|ENode:4| |SSN:3EPL| |Name:Bikash| |Department:Meeting          | |Designation:Manager| |Salary:30000| |Phone no:8237462936|
+No of employee nodes is 4
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 4
+
+The employee node with the ssn:3EPL is deleted
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 6
+
+The employee node with the ssn:4EPL is deleted
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 2
+
+|ENode:1| |SSN:1EPL| |Name:Braham| |Department:Developer| |Designation:Senior | |Salary:13627| |Phone no:8476283712|
+|ENode:2| |SSN:2EPL| |Name:Aman  | |Department:Trader   | |Designation:Manager| |Salary:20000| |Phone no:2763578156|
+No of employee nodes is 2
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+Please enter your choice: 7
+
+Demo Double Ended Queue Operation
+1:InsertQueueFront
+2: DeleteQueueFront
+3:InsertQueueRear
+4:DeleteQueueRear
+5:DisplayStatus
+6: Exit
+Please enter your choice: 2
+
+The employee node with the ssn:1EPL is deleted
+
+Demo Double Ended Queue Operation
+1:InsertQueueFront
+2: DeleteQueueFront
+3:InsertQueueRear
+4:DeleteQueueRear
+5:DisplayStatus
+6: Exit
+Please enter your choice: 4
+
+The employee node with the ssn:2EPL is deleted
+
+Demo Double Ended Queue Operation
+1:InsertQueueFront
+2: DeleteQueueFront
+3:InsertQueueRear
+4:DeleteQueueRear
+5:DisplayStatus
+6: Exit
+Please enter your choice: 2
+
+Doubly Linked List is empty
+
+Demo Double Ended Queue Operation
+1:InsertQueueFront
+2: DeleteQueueFront
+3:InsertQueueRear
+4:DeleteQueueRear
+5:DisplayStatus
+6: Exit
+Please enter your choice: 6
+
+--------Menu--------
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit
+
+Please enter your choice: 8
+$                                                                                          LAB 9
+--------Menu--------
+1.Represent and Evaluate a Polynomial P(x,y,z)
+2.Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z)
+Enter your choice: 1
+
+----Polynomial evaluation P(x,y,z)----
+Enter the no of terms in the polynomial: 5
+        Enter the 1 term:
+                Coef =  6
+                Enter Pow(x) Pow(y) and Pow(z): 2          2          1
+        Enter the 2 term:
+                Coef =  -4
+                Enter Pow(x) Pow(y) and Pow(z): 0          1          5
+        Enter the 3 term:
+                Coef =  3
+                Enter Pow(x) Pow(y) and Pow(z): 3          1          1
+        Enter the 4 term:
+                Coef =  2
+                Enter Pow(x) Pow(y) and Pow(z): 1          5          1
+        Enter the 5 term:
+                Coef =  -2
+                Enter Pow(x) Pow(y) and Pow(z): 1          1          3
+                
+Representation of Polynomial for evaluation:
+6x^2y^2z^1 + -4x^0y^1z^5 + 3x^3y^1z^1 + 2x^1y^5z^1 + -2x^1y^1z^3
+
+Enter the value of x,y and z: 1  1  1
+Result of polynomial evaluation is : 5
+
+--------Menu--------
+1.Represent and Evaluate a Polynomial P(x,y,z)
+2.Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z)
+Enter your choice: 2
+
+Enter the POLY1(x,y,z):
+Enter the no of terms in the polynomial: 5
+        Enter the 1 term:
+                Coef =  6
+                Enter Pow(x) Pow(y) and Pow(z): 4          4          4
+        Enter the 2 term:
+                Coef =  3
+                Enter Pow(x) Pow(y) and Pow(z): 4          3          1
+        Enter the 3 term:
+                Coef =  5
+                Enter Pow(x) Pow(y) and Pow(z): 0          1          1
+        Enter the 4 term:
+                Coef =  10
+                Enter Pow(x) Pow(y) and Pow(z): 0          1          0
+        Enter the 5 term:
+                Coef =  5
+                Enter Pow(x) Pow(y) and Pow(z): 0          0          0
+                
+Polynomial 1 is:
+6x^4y^4z^4 + 3x^4y^3z^1 + 5x^0y^1z^1 + 10x^0y^1z^0 + 5x^0y^0z^0
+
+
+Enter the POLY2(x,y,z):
+Enter the no of terms in the polynomial: 5
+        Enter the 1 term:
+                Coef =  8
+                Enter Pow(x) Pow(y) and Pow(z): 4          4          4
+        Enter the 2 term:
+                Coef =  4
+                Enter Pow(x) Pow(y) and Pow(z): 4          2          1
+        Enter the 3 term:
+                Coef =  30
+                Enter Pow(x) Pow(y) and Pow(z): 0          1          0
+        Enter the 4 term:
+                Coef =  20
+                Enter Pow(x) Pow(y) and Pow(z): 0          0          1
+        Enter the 5 term:
+                Coef =  3
+                Enter Pow(x) Pow(y) and Pow(z): 0          0          0
+                
+Polynomial 2 is:
+8x^4y^4z^4 + 4x^4y^2z^1 + 30x^0y^1z^0 + 20x^0y^0z^1 + 3x^0y^0z^0
+
+Polynomial addition result:
+14x^4y^4z^4 + 3x^4y^3z^1 + 4x^4y^2z^1 + 5x^0y^1z^1 + 40x^0y^1z^0 + 20x^0y^0z^1 + 8x^0y^0z^0
+
+--------Menu--------
+1.Represent and Evaluate a Polynomial P(x,y,z)
+2.Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z)
+Enter your choice:3
+$                                                                                          LAB 10
+-------BST MENU-------
+1.Create a BST
+2.Search
+3.BST Traversals:
+4.Exit
+Enter your choice: 1
+
+Enter the number of elements: 12
+Enter The value: 6
+Enter The value: 9
+Enter The value: 5
+Enter The value: 2
+Enter The value: 8
+Enter The value: 15
+Enter The value: 24
+Enter The value: 14
+Enter The value: 7
+Enter The value: 8
+Enter The value: 5
+Enter The value: 2
+
+-------BST MENU-------
+1.Create a BST
+2.Search
+3.BST Traversals:
+4.Exit
+Enter your choice: 3
+
+The Preorder display:    6      5      2      9     8      7       15      14      24
+The Inorder display:     2      5      6      7     8      9       14      15      24
+The Postorder display:   2      5      7      8     14     24      15       9      6
+
+-------BST MENU-------
+1.Create a BST
+2.Search
+3.BST Traversals:
+4.Exit
+Enter your choice: 2
+
+Enter Element to be searched: 66
+Key element is not found in the BST
+
+-------BST MENU-------
+1.Create a BST
+2.Search
+3.BST Traversals:
+4.Exit
+Enter your choice: 2
+
+Enter Element to be searched: 14
+Key element is present in BST
+
+-------BST MENU-------
+1.Create a BST
+2.Search
+3.BST Traversals:
+4.Exit
+Enter your choice: 4
